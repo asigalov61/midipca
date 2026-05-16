@@ -1,0 +1,3 @@
+include midipca/README.md
+recursive-include midipca/ *
+recursive-include midipca/artwork *
